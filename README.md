@@ -7,7 +7,7 @@ I’m a passionate Applied Mathematics graduate and data enthusiast with hands-o
 
 # 📊 Projects
  <br>$\color{blue} \mathbf{ 1.}$ customer_shopping_behavior_analysis<br>
- br>$\color{blue} \mathbf{ 1.}$ netflix_data_analysis<br>
+ <br>$\color{blue} \mathbf{ 1.}$ netflix_data_analysis<br>
 
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
