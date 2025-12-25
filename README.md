@@ -7,7 +7,7 @@ I’m a passionate Applied Mathematics graduate and data enthusiast with hands-o
 
 # 📊 Projects
  <br>$\color{blue} \mathbf{ 1.}$ customer_shopping_behavior_analysis: SQL.PYTHON.PowerBI_project
- <br>$\color{blue} \mathbf{ 2.}$ netflix_data_analysis: PYTHON_project
+ <br>$\color{blue} \mathbf{ 2.}$ netflix_data_analysis: beginner_PYTHON_project
  <br>$\color{blue} \mathbf{ 3.}$ retail_sales_analysis: beginner_SQL_project 
  <br>$\color{blue} \mathbf{ 4.}$ zepto_ecommerce_inventory_analysis: beginner_SQL_project
  <br>$\color{blue} \mathbf{ 5.}$ 7_days_SQL_challenge
