@@ -7,11 +7,11 @@ I’m a passionate data analyst with hands-on experience in data analytics, simu
 
 # 📊 Projects
  <br>$\color{blue} \mathbf{ 1.}$ customer_shopping_behavior_analysis: SQL.PYTHON.PowerBI_project
- <br>$\color{blue} \mathbf{ 2.}$ netflix_data_analysis: beginner_PYTHON_project
- <br>$\color{blue} \mathbf{ 3.}$ retail_sales_analysis: beginner_SQL_project 
- <br>$\color{blue} \mathbf{ 4.}$ zepto_ecommerce_inventory_analysis: beginner_SQL_project
- <br>$\color{blue} \mathbf{ 5.}$ 7_days_SQL_challenge
- <br>$\color{blue} \mathbf{ 6.}$ 30_days_SQL_challenge
+ <br>$\color{blue} \mathbf{ 2.}$ retail_sales_analysis: beginner_SQL_project 
+ <br>$\color{blue} \mathbf{ 3.}$ zepto_ecommerce_inventory_analysis: beginner_SQL_project
+ <br>$\color{blue} \mathbf{ 4.}$ 7_days_SQL_challenge
+ <br>$\color{blue} \mathbf{ 5.}$ 30_days_SQL_challenge
+ <br>$\color{blue} \mathbf{ 6.}$ netflix_movies_&_TV_shows: advance_SQL_project
 
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
