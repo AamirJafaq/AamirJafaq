@@ -13,7 +13,7 @@ I’m a passionate data analyst with hands-on experience in data analytics, simu
  <br>$\color{blue} \mathbf{ 5.}$ 30_days_SQL_challenge
  <br>$\color{blue} \mathbf{ 6.}$ netflix_movies_&_TVshows: advance_SQL_project
  <br>$\color{blue} \mathbf{ 7.}$ spotify_data_analysis: advance_SQL_project
- <br>$\color{blue} \mathbf{ 8.}$ hospital_database_system
+ <br>$\color{blue} \mathbf{ 8.}$ hospital_database_system: advance_SQL_project
 
 
 ### ✍️ Quote of the Day
